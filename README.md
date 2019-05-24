@@ -4,3 +4,4 @@
 ##### 自定义maven插件，实现了解决html文件调用js、css有缓存的问题。  实现方式： 查找html文件中的js、css引用，并将其引入地址后面加入版本号
 #### maven-project 项目
 ##### profile实战
+##### 测试git多账号
